@@ -1,0 +1,20 @@
+{
+    "111": {
+        "id_producto": "111",
+        "nombre": "soldadora",
+        "cantidad": 23,
+        "precio": 456.0
+    },
+    "222": {
+        "id_producto": "222",
+        "nombre": "martillo",
+        "cantidad": 45,
+        "precio": 7.0
+    },
+    "333": {
+        "id_producto": "333",
+        "nombre": "brocha",
+        "cantidad": 36,
+        "precio": 4.0
+    }
+}
