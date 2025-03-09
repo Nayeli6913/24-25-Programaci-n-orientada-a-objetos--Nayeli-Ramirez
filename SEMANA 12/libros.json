@@ -1,0 +1,23 @@
+{
+    "001": {
+        "isbn": "001",
+        "titulo": "La culpa es de la vaca",
+        "autor": "Jaime Lopera y Marta Bernal",
+        "categoria": "F\u00e1bula",
+        "prestado": false
+    },
+    "002": {
+        "isbn": "002",
+        "titulo": "El ni\u00f1o con el pijama de rayas",
+        "autor": "John Boyne",
+        "categoria": "Novela Narrativa",
+        "prestado": false
+    },
+    "003": {
+        "isbn": "003",
+        "titulo": "Orgullo y prejuicio",
+        "autor": "Jane Austen",
+        "categoria": "Literatura Universal",
+        "prestado": false
+    }
+}
