@@ -67,7 +67,7 @@ class Inventario:
             print(f"Ocurrió un error al guardar el inventario: {e}")
 
     # Añadir un nuevo producto
-    def añadir_producto(self, producto):
+    def anadir_producto(self, producto):
         for p in self.productos:
             if p.get_id() == producto.get_id():
                 print("Error de ID: el producto ya existe.")
